@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.navbar-profile img {
+    width: 50px; /* Ajuste la taille selon tes besoins */
+    height: 50px; /* Ajuste la taille selon tes besoins */
+    border-radius: 50%; /* Rend l'image circulaire */
+}
+
+/* Ajoute des styles supplémentaires pour la responsivité ou pour embellir la navbar */
