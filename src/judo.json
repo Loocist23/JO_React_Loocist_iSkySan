@@ -1,0 +1,106 @@
+{
+  "events": [
+    {
+      "category": "Men -60 kg",
+      "details": [
+        {
+          "round": "Quarterfinals",
+          "time": "13:16"
+        },
+        {
+          "round": "Repechage",
+          "time": "16:34"
+        },
+        {
+          "round": "Semifinals",
+          "time": "16:51"
+        }
+      ]
+    },
+    {
+      "category": "Women -48 kg",
+      "details": [
+        {
+          "round": "Repechage",
+          "time": "16:00"
+        },
+        {
+          "round": "Semifinals",
+          "time": "16:17"
+        },
+        {
+          "round": "Contest for Bronze Medal B",
+          "time": "17:28"
+        }
+      ]
+    },
+    {
+      "category": "Men -100 kg",
+      "details": [
+        {
+          "round": "Quarterfinals",
+          "time": "13:16"
+        },
+        {
+          "round": "Repechage",
+          "time": "16:00"
+        },
+        {
+          "round": "Semifinals",
+          "time": "16:17"
+        },
+        {
+          "round": "Final",
+          "time": "17:38"
+        }
+      ]
+    },
+    {
+      "category": "Women +78 kg",
+      "details": [
+        {
+          "round": "Quarterfinals",
+          "time": "13:16"
+        },
+        {
+          "round": "Repechage",
+          "time": "16:00"
+        },
+        {
+          "round": "Semifinals",
+          "time": "16:17"
+        }
+      ]
+    },
+    {
+      "category": "Men -66 kg",
+      "details": [
+        {
+          "round": "Elimination Round of 64",
+          "time": "10:00"
+        },
+        {
+          "round": "Elimination Round of 32",
+          "time": "10:28"
+        },
+        {
+          "round": "Quarterfinals",
+          "time": "12:20"
+        }
+      ]
+    },
+    {
+      "category": "Women -52 kg",
+      "details": [
+        {
+          "round": "Elimination Round of 64",
+          "time": "10:00"
+        },
+        {
+          "round": "Quarterfinals",
+          "time": "10:28"
+        }
+      ]
+    }
+  ]
+}

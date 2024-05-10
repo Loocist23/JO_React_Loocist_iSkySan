@@ -1,0 +1,27 @@
+.cardContainer {
+    cursor: pointer;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.cardContainer:hover {
+    transform: scale(1.05);
+}
+
+.cardTitle {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.cardContent {
+    font-size: 14px;
+    color: #666;
+}
+
+.strongText {
+    font-weight: bold;
+}
