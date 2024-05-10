@@ -8,7 +8,7 @@ const Emplacements = () => {
     useEffect(() => {
         const fetchLieux = async () => {
             try {
-                const response = await axios.get('https://data.paris2024.org/api/explore/v2.1/catalog/datasets/paris-2024-sites-de-competition/records');
+                const response = await axios.get('https://data.paris2024.org/api/explore/v2.1/catalog/datasets/paris-2024-sites-de-competition/records?limit=99 ');
                 setLieux(response.data.results);
             } catch (error) {
                 console.error('Erreur lors de la récupération des données:', error);

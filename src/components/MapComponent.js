@@ -18,7 +18,7 @@ const MapComponent = ({ sites }) => {
                 attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             />
             {sites.map((site, index) => (
-                <Marker key={index} position={[parseFloat(site.latitude), parseFloat(site.longitude)]}>
+                <Marker key={index} position={[parseFloat(site.point_geo.lat), parseFloat(site.point_geo.lon)]}>
                     <Popup>
                         {site.nom_du_site}<br />
                         Sports: {site.sports}<br />
