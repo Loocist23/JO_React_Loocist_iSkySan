@@ -1,0 +1,46 @@
+.home-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+.title {
+    font-size: 2.5em;
+    color: #0056b3;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.intro {
+    font-size: 1.2em;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.section-title {
+    font-size: 2em;
+    color: #d8345f;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #0056b3;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.content {
+    font-size: 1em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.sports-list, .sites-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.sports-list li, .sites-list li {
+    background-color: #e0e0e0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
