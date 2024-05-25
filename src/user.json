@@ -1,0 +1,33 @@
+{
+  "pseudo": "OlympicFan123",
+  "creationDate": "12 mars 2020",
+  "favoriteSports": ["Basketball", "Judo"],
+  "personalInfo": {
+    "name": "Jean Dupont",
+    "age": 28,
+    "country": "France",
+    "city": "Paris"
+  },
+  "participationHistory": ["Tokyo 2020", "Rio 2016", "Londres 2012"],
+  "recentActivity": [
+    "A commenté sur l'événement 'Finale 100m Hommes' - 24 mai 2024",
+    "A ajouté 'Basketball' aux sports préférés - 18 avril 2024",
+    "A partagé l'article 'Les plus grands moments des JO' - 10 mars 2024"
+  ],
+  "badges": [
+    { "name": "Fan des JO", "description": "Pour avoir suivi plus de trois éditions des JO" },
+    { "name": "Expert en Natation", "description": "Pour avoir commenté plus de 50 épreuves de natation" },
+    { "name": "Ambassadeur", "description": "Pour avoir invité plus de 10 amis à rejoindre le site" }
+  ],
+  "friends": ["OlympicLover92", "SportsGuru", "GymFanatic"],
+  "stats": {
+    "comments": 237,
+    "sharedArticles": 45,
+    "uploadedPhotos": 12
+  },
+  "preferences": {
+    "notifications": "Activées pour les sports préférés",
+    "language": "Français",
+    "viewMode": "Clair"
+  }
+}

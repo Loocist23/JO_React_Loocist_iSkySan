@@ -11,7 +11,9 @@ const Navbar = () => {
             <Link to="/resultats">Résultats</Link>
             <Link to="/emplacement">Emplacement</Link>
             <div className="navbar-profile">
-                <CgProfile />
+                <Link to="/profile">
+                    <CgProfile />
+                </Link>
             </div>
         </nav>
     );
