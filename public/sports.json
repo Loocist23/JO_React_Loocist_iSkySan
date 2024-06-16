@@ -1,0 +1,324 @@
+[
+  {
+    "discipline": "Athlétisme",
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-11",
+    "location": "Stade de France",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Aviron",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-03",
+    "location": "Stade nautique de Vaires-sur-Marne",
+    "medal_sessions": "31 juillet, 1er, 2 et 3 août"
+  },
+  {
+    "discipline": "Badminton",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-05",
+    "location": "Arena Porte de la Chapelle",
+    "medal_sessions": "2, 3, 4 et 5 août"
+  },
+  {
+    "discipline": "Basketball",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-11",
+    "location": "Stade Pierre Mauroy et Arena Bercy",
+    "medal_sessions": "10 et 11 août"
+  },
+  {
+    "discipline": "Basketball 3x3",
+    "startDate": "2024-07-30",
+    "endDate": "2024-08-05",
+    "location": "La Concorde",
+    "medal_sessions": "2024-08-05"
+  },
+  {
+    "discipline": "BMX freestyle",
+    "startDate": "2024-07-30",
+    "endDate": "2024-07-31",
+    "location": "La Concorde",
+    "medal_sessions": "2024-07-31"
+  },
+  {
+    "discipline": "BMX race",
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-02",
+    "location": "Stade BMX de Saint-Quentin-en-Yvelines",
+    "medal_sessions": "2024-08-02"
+  },
+  {
+    "discipline": "Boxe",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-10",
+    "location": "Arena Paris Nord et Stade Roland-Garros",
+    "medal_sessions": "2024-08-06, 2024-08-07, 2024-08-08, 2024-08-09, 2024-08-10"
+  },
+  {
+    "discipline": "Breaking",
+    "startDate": "2024-08-09",
+    "endDate": "2024-08-10",
+    "location": "La Concorde",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Canoë slalom",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-05",
+    "location": "Stade nautique de Vaires-sur-Marne",
+    "medal_sessions": "2024-07-28, 2024-07-29, 2024-07-31, 2024-08-01, 2024-08-05"
+  },
+  {
+    "discipline": "Canoë sprint",
+    "startDate": "2024-08-06",
+    "endDate": "2024-08-10",
+    "location": "Stade nautique de Vaires-sur-Marne",
+    "medal_sessions": "2024-08-08, 2024-08-09, 2024-08-10"
+  },
+  {
+    "discipline": "Cyclisme sur piste",
+    "startDate": "2024-08-05",
+    "endDate": "2024-08-11",
+    "location": "Vélodrome national de Saint-Quentin-en-Yvelines",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Cyclisme sur route",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-04",
+    "location": "Pont d’Iéna, Invalides, pont Alexandre III",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Escalade sportive",
+    "startDate": "2024-08-05",
+    "endDate": "2024-08-10",
+    "location": "Site d’escalade du Bourget",
+    "medal_sessions": "2024-08-07, 2024-08-08, 2024-08-09, 2024-08-10"
+  },
+  {
+    "discipline": "Escrime",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-04",
+    "location": "Grand Palais",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Escrime fauteuil",
+    "startDate": "2024-09-03",
+    "endDate": "2024-09-07",
+    "location": "Grand Palais",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Football",
+    "startDate": "2024-07-24",
+    "endDate": "2024-08-10",
+    "location": "Parc des Princes, Stade de Nantes, Stade de Bordeaux, Stade de Marseille, Stade de Nice, Stade Geoffroy-Guichard, Stade de Lyon",
+    "medal_sessions": "2024-08-08, 2024-08-09, 2024-08-10"
+  },
+  {
+    "discipline": "Golf",
+    "startDate": "2024-08-01",
+    "endDate": "2024-08-10",
+    "location": "Golf National",
+    "medal_sessions": "2024-08-04, 2024-08-10"
+  },
+  {
+    "discipline": "Gymnastique artistique",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-05",
+    "location": "Arena Bercy",
+    "medal_sessions": "2024-07-29, 2024-07-30, 2024-07-31, 2024-08-01, 2024-08-03, 2024-08-04, 2024-08-05"
+  },
+  {
+    "discipline": "Gymnastique rythmique",
+    "startDate": "2024-08-08",
+    "endDate": "2024-08-10",
+    "location": "Arena Porte de la Chapelle",
+    "medal_sessions": "2024-08-09, 2024-08-10"
+  },
+  {
+    "discipline": "Haltérophilie",
+    "startDate": "2024-08-07",
+    "endDate": "2024-08-11",
+    "location": "Arena Paris Sud 6",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Handball",
+    "startDate": "2024-07-25",
+    "endDate": "2024-08-11",
+    "location": "Stade Pierre Mauroy, Arena Paris Sud 6",
+    "medal_sessions": "2024-08-10, 2024-08-11"
+  },
+  {
+    "discipline": "Hockey",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-09",
+    "location": "Stade Yves-du-Manoir",
+    "medal_sessions": "2024-08-08, 2024-08-09"
+  },
+  {
+    "discipline": "Judo",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-03",
+    "location": "Arena Champ de Mars",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Lutte",
+    "startDate": "2024-08-05",
+    "endDate": "2024-08-11",
+    "location": "Arena Champ de Mars",
+    "medal_sessions": "2024-08-06, 2024-08-07, 2024-08-08, 2024-08-09, 2024-08-10, 2024-08-11"
+  },
+  {
+    "discipline": "Natation",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-04",
+    "location": "Paris La Défense Arena",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Natation artistique",
+    "startDate": "2024-08-05",
+    "endDate": "2024-08-10",
+    "location": "Centre Aquatique",
+    "medal_sessions": "2024-08-07, 2024-08-10"
+  },
+  {
+    "discipline": "Natation marathon",
+    "startDate": "2024-08-08",
+    "endDate": "2024-08-09",
+    "location": "pont Alexandre III",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Pentathlon moderne",
+    "startDate": "2024-08-08",
+    "endDate": "2024-08-11",
+    "location": "Château de Versailles, Arena Paris Nord",
+    "medal_sessions": "2024-08-10, 2024-08-11"
+  },
+  {
+    "discipline": "Plongeon",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-10",
+    "location": "Centre Aquatique",
+    "medal_sessions": "2024-07-27, 2024-07-29, 2024-07-31, 2024-08-02, 2024-08-06, 2024-08-08, 2024-08-09, 2024-08-10"
+  },
+  {
+    "discipline": "Rugby",
+    "startDate": "2024-07-24",
+    "endDate": "2024-07-30",
+    "location": "Stade de France",
+    "medal_sessions": "2024-07-27, 2024-07-30"
+  },
+  {
+    "discipline": "Skateboard",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-07",
+    "location": "La Concorde",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Sports Equestres",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-06",
+    "location": "Château de Versailles",
+    "medal_sessions": "2024-07-29, 2024-08-02, 2024-08-03, 2024-08-04, 2024-08-06"
+  },
+  {
+    "discipline": "Surf",
+    "startDate": "2024-07-27",
+    "endDate": "2024-07-30",
+    "location": "Teahupo’o, Tahiti",
+    "medal_sessions": "2024-07-30"
+  },
+  {
+    "discipline": "Taekwondo",
+    "startDate": "2024-08-07",
+    "endDate": "2024-08-10",
+    "location": "Grand Palais",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Tennis",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-04",
+    "location": "Stade Roland-Garros",
+    "medal_sessions": "2024-08-02, 2024-08-03, 2024-08-04"
+  },
+  {
+    "discipline": "Tennis de table",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-10",
+    "location": "Arena Paris Sud 4",
+    "medal_sessions": "2024-07-30, 2024-08-03, 2024-08-04, 2024-08-09, 2024-08-10"
+  },
+  {
+    "discipline": "Tir",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-05",
+    "location": "Centre national de tir de Châteauroux",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Tir à l’arc",
+    "startDate": "2024-07-25",
+    "endDate": "2024-08-04",
+    "location": "Invalides",
+    "medal_sessions": "2024-07-28, 2024-07-29, 2024-08-02, 2024-08-03, 2024-08-04"
+  },
+  {
+    "discipline": "Trampoline",
+    "startDate": "2024-08-02",
+    "endDate": "2024-08-02",
+    "location": "Arena Bercy",
+    "medal_sessions": "2024-08-02"
+  },
+  {
+    "discipline": "Triathlon",
+    "startDate": "2024-07-30",
+    "endDate": "2024-08-05",
+    "location": "pont Alexandre III",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Voile",
+    "startDate": "2024-07-28",
+    "endDate": "2024-08-08",
+    "location": "Marina de Marseille",
+    "medal_sessions": "2024-08-01, 2024-08-02, 2024-08-06, 2024-08-07, 2024-08-08"
+  },
+  {
+    "discipline": "Volleyball",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-11",
+    "location": "Arena Paris Sud 1",
+    "medal_sessions": "2024-08-09, 2024-08-10, 2024-08-11"
+  },
+  {
+    "discipline": "Volleyball de plage",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-10",
+    "location": "stade Tour Eiffel",
+    "medal_sessions": "2024-08-09, 2024-08-10"
+  },
+  {
+    "discipline": "VTT",
+    "startDate": "2024-07-28",
+    "endDate": "2024-07-29",
+    "location": "Colline d’Elancourt",
+    "medal_sessions": "Toutes les sessions"
+  },
+  {
+    "discipline": "Waterpolo",
+    "startDate": "2024-07-27",
+    "endDate": "2024-08-11",
+    "location": "Centre Aquatique et Paris la Défense Arena",
+    "medal_sessions": "2024-08-10, 2024-08-11"
+  }
+]

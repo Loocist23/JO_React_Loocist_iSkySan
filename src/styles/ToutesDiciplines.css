@@ -1,0 +1,68 @@
+/* Container for search input */
+.search-container {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+/* Styling for search input */
+.search-container input {
+    padding: 10px;
+    font-size: 16px;
+    width: 80%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Container for sort buttons */
+.sort-buttons {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* Basic styling for cards */
+.card-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+/* Card container styling */
+.cardContainer {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+/* Card title styling */
+.cardTitle {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+/* Card content styling */
+.cardContent {
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
+/* Button styling */
+.cardButton {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.cardButton:hover {
+    background-color: #0056b3;
+}
