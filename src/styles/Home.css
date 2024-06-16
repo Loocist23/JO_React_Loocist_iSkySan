@@ -31,16 +31,20 @@
     font-size: 1em;
     line-height: 1.6;
     margin-bottom: 20px;
+    width: 100%;
 }
 
 .sports-list, .sites-list {
-    list-style-type: none;
+    display: grid;
+    grid-template-columns: auto auto auto; 
     padding-left: 0;
 }
 
 .sports-list li, .sites-list li {
     background-color: #e0e0e0;
-    margin: 5px 0;
+    margin: 5px;
     padding: 10px;
     border-radius: 5px;
+    align-items: center;
+    justify-items: center;
 }

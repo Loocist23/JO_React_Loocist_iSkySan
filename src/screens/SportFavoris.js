@@ -44,10 +44,10 @@ const SportFavoris = () => {
                         {basketballData.events.map((event, index) => (
                             <div key={index} className='modal-content'>
                              <div>Date: {event.date}</div>
-                             <div>Time: {event.time}</div>
+                             <div>Heure: {event.time}</div>
                              <div>Phase: {event.phase}</div>
-                             <div>Teams: {event.teams ? event.teams.join(', ') : 'N/A'}</div>
-                             <div>Venue: {event.venue}</div>
+                             <div>Equipe: {event.teams ? event.teams.join(', ') : 'N/A'}</div>
+                             <div>Lieux: {event.venue}</div>
                                 <hr />
                             </div>
                         ))}
@@ -61,11 +61,11 @@ const SportFavoris = () => {
                         <h2 className='modal-title'>Détails des événements de Judo</h2>
                         {judoData.events.map((event, index) => (
                             <div key={index} className='modal-content border-div'>
-                                <div>Category: {event.category}</div>
-                                 Details: {event.details.map((detail, detailIndex) => (
+                                <div>Catégorie: {event.category}</div>
+                                 Détails: {event.details.map((detail, detailIndex) => (
                                 <div key={detailIndex}>
                                  <div>Round: {detail.round}</div>
-                                 <div>Time: {detail.time}</div>
+                                 <div>Heure: {detail.time}</div>
                                     <hr />
                                 </div>
                             ))}
