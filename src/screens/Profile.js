@@ -84,7 +84,7 @@ const UserProfile = () => {
             <Button onClick={handleShow}>Modifier les informations</Button>
 
             <Modal show={showModal} onHide={handleClose}>
-                <Modal.Header closeButton>
+                <Modal.Header>
                     <Modal.Title>Modifier les informations</Modal.Title>
                 </Modal.Header>
                 <Modal.Body>
