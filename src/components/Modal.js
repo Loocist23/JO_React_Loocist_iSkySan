@@ -1,5 +1,5 @@
 import { Button } from "./Button"
-
+import '../styles/Modal.css'
 export const Modal = ({ show, onClose, children }) => {
     if (!show) {
         return null;
@@ -10,7 +10,6 @@ export const Modal = ({ show, onClose, children }) => {
             <div className="modalContent">
             <Button className="modalButton" onClick={onClose}>Fermer</Button>
                 {children}
-
             </div>
         </div>
     );
