@@ -4,9 +4,16 @@
     padding: 16px;
     margin: 16px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    transition: 0.3s;
+    transition: 0.3s; 
+    width: 40%;
 }
-
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 .cardContainer:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
@@ -44,16 +51,30 @@
     overflow: auto;
     background-color: rgba(0,0,0,0.4);
 }
+.border-div {
+    border: 1px solid #888;
 
+
+}
 .modalContent {
     background-color: #fefefe;
     margin: 25px auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 90%;
+    width: 70%;
     overflow: auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+}
+.modal-title {
+    color: blue;
+    text-align: center;
 }
 
+.modal-content div {
+    font-weight: bold;
+}
 .modalButton {
     background-color: red;
     color: white;

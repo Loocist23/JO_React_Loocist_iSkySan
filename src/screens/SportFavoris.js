@@ -34,36 +34,38 @@ const SportFavoris = () => {
         <div>
             <h1>Vos Sports Favoris</h1>
             <p>Sélectionnez vos sports favoris pour obtenir les dernières nouvelles et résultats.</p>
-            {user.favoriteSports.includes("Basketball") && basketballData && (
-                <>
+            <div className="cards">
+             {user.favoriteSports.includes("Basketball") && basketballData && (
+               <>
+                
                     <Card title="Basketball" text="Cliquez pour voir les détails des événements de basketball." onClick={handleShowBasketball} />
                     <Modal show={showBasketball} onClose={handleCloseBasketball}>
-                        <h2>Détails des événements de Basketball</h2>
+                        <h2 className='modal-title'>Détails des événements de Basketball</h2>
                         {basketballData.events.map((event, index) => (
-                            <div key={index}>
-                                Date: {event.date} <br />
-                                Time: {event.time} <br />
-                                Phase: {event.phase} <br />
-                                Teams: {event.teams ? event.teams.join(', ') : 'N/A'} <br />
-                                Venue: {event.venue} <br />
+                            <div key={index} className='modal-content'>
+                             <div>Date: {event.date}</div>
+                             <div>Time: {event.time}</div>
+                             <div>Phase: {event.phase}</div>
+                             <div>Teams: {event.teams ? event.teams.join(', ') : 'N/A'}</div>
+                             <div>Venue: {event.venue}</div>
                                 <hr />
                             </div>
                         ))}
                     </Modal>
                 </>
-            )}
-            {user.favoriteSports.includes("Judo") && judoData && (
+             )}
+              {user.favoriteSports.includes("Judo") && judoData && (
                 <>
                     <Card title="Judo" text="Cliquez pour voir les détails des événements de judo." onClick={handleShowJudo} />
                     <Modal show={showJudo} onClose={handleCloseJudo}>
-                        <h2>Détails des événements de Judo</h2>
+                        <h2 className='modal-title'>Détails des événements de Judo</h2>
                         {judoData.events.map((event, index) => (
-                            <div key={index}>
-                                Category: {event.category} <br />
-                                Details: {event.details.map((detail, detailIndex) => (
+                            <div key={index} className='modal-content border-div'>
+                                <div>Category: {event.category}</div>
+                                 Details: {event.details.map((detail, detailIndex) => (
                                 <div key={detailIndex}>
-                                    Round: {detail.round} <br />
-                                    Time: {detail.time} <br />
+                                 <div>Round: {detail.round}</div>
+                                 <div>Time: {detail.time}</div>
                                     <hr />
                                 </div>
                             ))}
@@ -71,7 +73,8 @@ const SportFavoris = () => {
                         ))}
                     </Modal>
                 </>
-            )}
+             )}
+            </div>
         </div>
     );
 };

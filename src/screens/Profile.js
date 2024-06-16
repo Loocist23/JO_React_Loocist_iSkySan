@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import user from '../user.json';
 import Button from 'react-bootstrap/Button';
 import Modal from 'react-bootstrap/Modal';
+import '../styles/Profile.css';
 
 const UserProfile = () => {
     const [userData, setUserData] = useState(null);

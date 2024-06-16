@@ -8,8 +8,9 @@ export const Modal = ({ show, onClose, children }) => {
     return (
         <div className="modal">
             <div className="modalContent">
+            <Button className="modalButton" onClick={onClose}>Fermer</Button>
                 {children}
-                <Button className="modalButton" onClick={onClose}>Fermer</Button>
+
             </div>
         </div>
     );
